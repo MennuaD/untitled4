@@ -65,7 +65,7 @@ public class Dragon{
         System.out.println("The dragon attacks for " + damage + " health points.");
         return damage;
     }
-    public void take dama
+    public void take damage
 
 
 
